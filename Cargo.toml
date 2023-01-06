@@ -1,0 +1,6 @@
+[package]
+name = "csgo-rust"
+version = "0.1.0"
+authors = ["anvsO1"]
+
+[dependencies]
